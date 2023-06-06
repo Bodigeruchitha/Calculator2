@@ -1,0 +1,313 @@
+{
+    "store_id" : 1,
+    "location_name" :"Madhapur,Hyderabad",
+    "state_id" : 2,
+    "state_name" :"Telangana",
+    "country"   :"India",
+    "opening_hours": {
+      "monday": "6:00 AM - 8:00 PM",
+      "tuesday": "6:00 AM - 8:00 PM",
+      "wednesday": "6:00 AM - 8:00 PM",
+      "thursday": "6:00 AM - 8:00 PM",
+      "friday": "6:00 AM - 8:00 PM",
+      "saturday": "7:00 AM - 9:00 PM",
+      "sunday": "7:00 AM - 9:00 PM"
+    },
+    "menu": [
+      {
+        "items": [
+          {
+            "meal_type": "Drinks",
+            "menu_id" : 1,
+            "menu_name" : "Coffee Latte",
+            "price" : " 250"
+          },
+          {
+            "meal_type": "Drinks",
+            "menu_id" : 1,
+            "menu_name" : "Cappucciano",
+            "price" : "250"
+        }
+        ]
+    }
+    ] 
+},
+{
+    "store_id" : 2,
+    "location_name" :"kokapet,Hyderabad",
+    "state_id" : 2,
+    "state_name" :"Telangana",
+    "country"   :"India",
+    "opening_hours": {
+      "monday": "6:00 AM - 8:00 PM",
+      "tuesday": "6:00 AM - 8:00 PM",
+      "wednesday": "6:00 AM - 8:00 PM",
+      "thursday": "6:00 AM - 8:00 PM",
+      "friday": "6:00 AM - 8:00 PM",
+      "saturday": "7:00 AM - 9:00 PM",
+      "sunday": "7:00 AM - 9:00 PM"
+    },
+    "menu": [
+      {
+        "items": [
+          {
+            "meal_type": "Bestseller",
+            "menu_id" : 2,
+            "menu_name" : "Double Choclate Chip Frappuccino",
+            "price" : "399"
+        },
+          {
+            "meal_type": "Bestseller",
+            "menu_id" : 2,
+            "menu_name" : "Mocha Frappucino",
+            "price" : "399"
+        }
+        {
+            "meal_type": "Bestseller",
+            "menu_id" : 2,
+            "menu_name" : "Green Tea Latte",
+            "price" : "280"
+        }
+        ]
+      }
+    ]
+},
+{
+    "store_id" : "3",
+    "location_name" :"laxminagr,pune",
+    "state_id" : 3,
+    "state_name" :"Maharastra",
+    "country"   :"India",
+    "opening_hours": {
+      "monday": "6:00 AM - 8:00 PM",
+      "tuesday": "6:00 AM - 8:00 PM",
+      "wednesday": "6:00 AM - 8:00 PM",
+      "thursday": "6:00 AM - 8:00 PM",
+      "friday": "6:00 AM - 8:00 PM",
+      "saturday": "7:00 AM - 9:00 PM",
+      "sunday": "7:00 AM - 9:00 PM"
+    },
+    "menu": [
+      {
+        "items": [
+            {
+                "meal_type": "Food",
+                "menu_id" :5,
+                "menu_name" : "Choclate Croissants",
+                "price" : " 150"
+              },
+              {
+                "meal_type": "Food",
+                "menu_id" : 5,
+                "menu_name" : "Everything Bagel",
+                "price" : "150"
+            }
+        ]
+      }
+    ]
+},
+{
+    "store_id" : "4",
+    "location_name" :"Shivajinagar,pune",
+    "state_id" : 3,
+    "state_name" :"Maharastra",
+    "country"   :"India",
+    "opening_hours": {
+      "monday": "6:00 AM - 8:00 PM",
+      "tuesday": "6:00 AM - 8:00 PM",
+      "wednesday": "6:00 AM - 8:00 PM",
+      "thursday": "6:00 AM - 8:00 PM",
+      "friday": "6:00 AM - 8:00 PM",
+      "saturday": "7:00 AM - 9:00 PM",
+      "sunday": "7:00 AM - 9:00 PM"
+    },
+    "menu": [
+      {
+        "items": [
+          {
+            "meal_type": "Ready to eat",
+            "menu_id" : 4,
+            "menu_name" : "Spinach & Feta Wrap",
+            "price" : " 199"
+          },
+        ]
+      }
+    ]
+}
+
+// {
+//     "store_id" : "5",
+//     "location_name" :"Palika Bazar,Connaught Place , New Delhi",
+//     "state_id" : 4,
+//     "state_name" :"Delhi",
+//     "country"   :"India",
+//     "opening_hours": {
+//       "monday": "6:00 AM - 8:00 PM",
+//       "tuesday": "6:00 AM - 8:00 PM",
+//       "wednesday": "6:00 AM - 8:00 PM",
+//       "thursday": "6:00 AM - 8:00 PM",
+//       "friday": "6:00 AM - 8:00 PM",
+//       "saturday": "7:00 AM - 9:00 PM",
+//       "sunday": "7:00 AM - 9:00 PM"
+//     },
+//     "menu": [
+//       {
+//         "items": [
+//           {
+//             "meal_type": "Food",
+//             "menu_id" :5,
+//             "menu_name" : "Choclate Croissants",
+//             "price" : " 150"
+//           },
+//           {
+//             "meal_type": "Food",
+//             "menu_id" : 5,
+//             "menu_name" : "Everything Bagel",
+//             "price" : "150"
+//         }
+//         ]
+//       }
+//     ]
+// },
+// {
+//     "store_id" : "6",
+//     "location_name" :"Hastsal , New Delhi",
+//     "state_id" : 4,
+//     "state_name" :"Delhi",
+//     "country"   :"India",
+//     "opening_hours": {
+//       "monday": "6:00 AM - 8:00 PM",
+//       "tuesday": "6:00 AM - 8:00 PM",
+//       "wednesday": "6:00 AM - 8:00 PM",
+//       "thursday": "6:00 AM - 8:00 PM",
+//       "friday": "6:00 AM - 8:00 PM",
+//       "saturday": "7:00 AM - 9:00 PM",
+//       "sunday": "7:00 AM - 9:00 PM"
+//     },
+//     "menu": [
+//       {
+//         "items": [
+//           {
+//             "meal_type": "Drinks",
+//             "menu_id" : 1,
+//             "menu_name" : "Coffee Latte",
+//             "price" : " 250"
+//           },
+//           {
+//             "meal_type": "Drinks",
+//             "menu_id" : 1,
+//             "menu_name" : "Cappucciano",
+//             "price" : "250"
+//         }
+//         ]
+//       }
+//     ]
+// },
+// {
+//     "store_id" : "7",
+//     "location_name" :"Nevpada, Vile Parle East, Mumbai",
+//     "state_id" : 5,
+//     "state_name" :"Karnataka",
+//     "country"   :"India",
+//     "opening_hours": {
+//       "monday": "6:00 AM - 8:00 PM",
+//       "tuesday": "6:00 AM - 8:00 PM",
+//       "wednesday": "6:00 AM - 8:00 PM",
+//       "thursday": "6:00 AM - 8:00 PM",
+//       "friday": "6:00 AM - 8:00 PM",
+//       "saturday": "7:00 AM - 9:00 PM",
+//       "sunday": "7:00 AM - 9:00 PM"
+//     },
+//     "menu": [
+//       {
+//         "items": [
+//           {
+//             "meal_type": "Drinks",
+//             "menu_id" : 1,
+//             "menu_name" : "Coffee Latte",
+//             "price" : " 250"
+//           },
+//           {
+//             "meal_type": "Drinks",
+//             "menu_id" : 1,
+//             "menu_name" : "Cappucciano",
+//             "price" : "250"
+//         }
+//         ]
+//       }
+//     ]
+// },
+// {
+   
+//     "store_id" : "8",
+//     "location_name" :"Navy Mumbai",
+//     "state_id" : 5,
+//     "state_name" :"Karnataka",
+//     "country"   :"India",
+//     "opening_hours": {
+//       "monday": "6:00 AM - 8:00 PM",
+//       "tuesday": "6:00 AM - 8:00 PM",
+//       "wednesday": "6:00 AM - 8:00 PM",
+//       "thursday": "6:00 AM - 8:00 PM",
+//       "friday": "6:00 AM - 8:00 PM",
+//       "saturday": "7:00 AM - 9:00 PM",
+//       "sunday": "7:00 AM - 9:00 PM"
+//     },
+//     "menu": [
+//       {
+//         "items": [
+//           {
+//             "meal_type": "Drinks",
+//             "menu_id" : 1,
+//             "menu_name" : "Coffee Latte",
+//             "price" : " 250"
+//           },
+//           {
+//             "meal_type": "Drinks",
+//             "menu_id" : 1,
+//             "menu_name" : "Cappucciano",
+//             "price" : "250"
+//         }
+//         ]
+//       }
+//     ]
+// },
+// {
+//     "store_id" : "9",
+//     "location_name" :"DB Marg, Miramur, Panaji",
+//     "state_id" : 6,
+//     "state_name" :"Goa",
+//     "country"   :"India",
+//     "opening_hours": {
+//       "monday": "6:00 AM - 8:00 PM",
+//       "tuesday": "6:00 AM - 8:00 PM",
+//       "wednesday": "6:00 AM - 8:00 PM",
+//       "thursday": "6:00 AM - 8:00 PM",
+//       "friday": "6:00 AM - 8:00 PM",
+//       "saturday": "7:00 AM - 9:00 PM",
+//       "sunday": "7:00 AM - 9:00 PM"
+//     },
+//     "menu": [
+//       {
+//         "items": [
+//           {
+//             "meal_type": "Drinks",
+//             "menu_id" : 1,
+//             "menu_name" : "Coffee Latte",
+//             "price" : " 250"
+//           },
+//           {
+//             "meal_type": "Drinks",
+//             "menu_id" : 1,
+//             "menu_name" : "Cappucciano",
+//             "price" : "250"
+//         }
+//         ]
+//       }
+//     ]
+// },
+
+        
+  
+        
+  
