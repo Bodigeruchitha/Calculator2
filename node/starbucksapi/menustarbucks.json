@@ -49,7 +49,7 @@
     "menu_name" : "Spinach & Feta Wrap",
     "meal_type": "Ready to eat",
     "description": "Espresso with vanilla-flavored syrup and steamed milk, topped with caramel drizzle",
-    "price" : "c",
+    "price" : "199",
     "ingredients": ["Spinach", "lettuce", "Chicken"],
     "menu_image" : "https://i.ibb.co/p05xqdj/Spinach-Feta-Wrap.jpg"
 },
