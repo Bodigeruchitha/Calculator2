@@ -1,0 +1,62 @@
+
+.container {
+    text-align:center;
+    padding: 200px;
+}
+
+
+.button input{
+    border-radius: 5px;
+    height: 42px;
+    width: 65px;
+    cursor:pointer;   
+    background-color: black;
+    margin: 4px
+ }
+
+.display input{
+    width: 300px;
+    padding: 12px;
+    text-align: right;
+    margin: 10px;
+    font-size:30px;
+   background-color: black;
+   box-shadow: 2px 2px 2px gray;
+   height:93px ;
+   border-radius: 14px;
+}
+.colour {
+   color: red
+}
+.colour:hover {
+transition:0.5;
+transform: scale(1.1);
+box-shadow: 2px 2px 2px gray;
+
+}
+.equal:hover{
+transition:0.5;
+transform: scale(1.1);
+box-shadow: 2px 2px 2px gray;
+
+}
+.equal{
+    color: blue;
+}
+.ash{
+    color:white ;
+}
+.ash:hover{
+    box-shadow: 2px 2px 2px gray;
+    transition:0.5;
+    transform: scale(1.1);
+}
+.btnclr{
+    color: white;
+}
+.btnclr:hover{
+box-shadow: 2px 2px 2px gray;
+;
+transition:0.5;
+transform: scale(1.1);
+}
